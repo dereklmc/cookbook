@@ -9,7 +9,7 @@ version 1
 * 3 Celery Stalks
 * 1 1lb Ground Beef, Turkey, or Lamb
 * 3  Sausage
-* 1 Canned Skinned, Plum Tomatoes (Best option: [http://www.amazon.com/grocery-gourmet-food/dp/B000N36F9E])
+* 1 Canned Skinned, Plum Tomatoes (Best option: http://www.amazon.com/grocery-gourmet-food/dp/B000N36F9E)
 * . Cannned (Plum) Tomato Puree
 * 1/2 cup red wine
 * 1/2 tsp. minced garlic
