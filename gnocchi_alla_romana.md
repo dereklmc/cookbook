@@ -17,7 +17,7 @@ version 1
 2. Reduce heat to low; slowly whisk in semolina. 
 3. Cook, whisking, until tender, 8–10 minutes.
 4. Beat egg yolks.
-5. Stir in 1 or mpore cups Parmesan, 4 tbsp. butter, yolks and salt. 
+5. Stir in 1 or more cups Parmesan, 4 tbsp. butter, yolks and salt. 
 6. Remove from heat.
 7. Use a paper-towel to coat the inside of a rimmed baking sheet or baking dish.
 8. Spread mixture until 1/2 inch thick with spatula.
